@@ -23,7 +23,7 @@ m2={o['title']:o for o in l2}
 
 for n in set(m1.keys())-set(m2.keys()):
     o0 =m1[n] # json.load(open('./entries/' + n))
-    msg = """翻译以下英文内容，当你回答的时候，直接回答翻译结果\n"""
+    msg = """准确翻译以下英文内容\n"""
     msg += o0['content']
     print(msg)
     o = send([{'role': 'user', 'content': msg}])
