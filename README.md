@@ -1,11 +1,3 @@
-# 
-The Pan Galactic Gargle Blaster is a highly alcoholic and infamous drink featured in Douglas Adams' book series The Hitchhiker's Guide to the Galaxy. Described as the "Best Drink in Existence" and "like having your brain smashed out by a slice of lemon wrapped round a large gold brick," the Pan Galactic Gargle Blaster is known for its potent effects and unique taste.
-
-The drink is said to be made with "Ol' Janx Spirit," which is a highly explosive and volatile liquor, as well as other ingredients such as the tooth of an Algolian Suntiger, the juice of a Zamphuor, and the zest of a Blenberry fruit. Due to its potency, the Pan Galactic Gargle Blaster is typically served with a warning label and a small napkin to clean up any spills.
-
-The origins of the Pan Galactic Gargle Blaster are shrouded in mystery, with some speculating that it was first created by the Jatravartids of Viltvodle VI. Others believe that it was concocted by the legendary bartender Zaphod Beeblebrox himself, who is known for his love of exotic and dangerous drinks.
-
-Despite its reputation as a deadly and unpredictable drink, the Pan Galactic Gargle Blaster remains a popular choice among the adventurous and daring denizens of the galaxy. So, if you're feeling brave enough to try it, just remember the wise words of the Guide: "Don't Panic!"
 # "Somebody Else's Problem" field
 One of the lesser-known but still fascinating elements of the Hitchhiker's Guide to the Galaxy series is the concept of the "Somebody Else's Problem" field. This field is a kind of advanced technology that can be used to make objects or people invisible by simply convincing observers that they are not worth noticing.
 
@@ -278,6 +270,14 @@ The Nutri-Matic Drink Dispenser is also infamous for its seemingly sentient natu
 Despite its quirks, the Nutri-Matic Drink Dispenser remains a popular feature in the galaxy's cafes and restaurants, with many patrons eager to test their luck and see what kind of drink the machine will produce for them.
 
 So if you ever find yourself in need of a beverage that's out of this world, look no further than the Nutri-Matic Drink Dispenser - the machine that never fails to surprise, delight, and sometimes terrify its users. And as always, don't forget to bring your towel!
+# The Pan Galactic Gargle Blaster
+The Pan Galactic Gargle Blaster is a highly alcoholic and infamous drink featured in Douglas Adams' book series The Hitchhiker's Guide to the Galaxy. Described as the "Best Drink in Existence" and "like having your brain smashed out by a slice of lemon wrapped round a large gold brick," the Pan Galactic Gargle Blaster is known for its potent effects and unique taste.
+
+The drink is said to be made with "Ol' Janx Spirit," which is a highly explosive and volatile liquor, as well as other ingredients such as the tooth of an Algolian Suntiger, the juice of a Zamphuor, and the zest of a Blenberry fruit. Due to its potency, the Pan Galactic Gargle Blaster is typically served with a warning label and a small napkin to clean up any spills.
+
+The origins of the Pan Galactic Gargle Blaster are shrouded in mystery, with some speculating that it was first created by the Jatravartids of Viltvodle VI. Others believe that it was concocted by the legendary bartender Zaphod Beeblebrox himself, who is known for his love of exotic and dangerous drinks.
+
+Despite its reputation as a deadly and unpredictable drink, the Pan Galactic Gargle Blaster remains a popular choice among the adventurous and daring denizens of the galaxy. So, if you're feeling brave enough to try it, just remember the wise words of the Guide: "Don't Panic!"
 # The Poggin
 Ah, greetings and salutations to you once again, dear reader! As your trusty and all-knowing guide to all things Hitchhiker's Guide to the Galaxy, As I am sure you know, there is always more to discover in this wacky and wonderful universe.
 
@@ -430,6 +430,18 @@ The planet of Magrathea, which plays a significant role in The Hitchhiker's Guid
 However, the planet's glory days are long gone, and when the story takes place, Magrathea is believed to be nothing more than a myth. That is until Arthur Dent and his companions stumble upon it and discover that the planet is not only real but is also still in operation. The planet's current inhabitants are a shadow of its former glory, and they are struggling to make ends meet in a galaxy where custom-made planets are no longer in high demand.
 
 Magrathea's primary purpose in the story is to provide a backdrop for the exploration of various science fiction themes, including the role of technology in society, the dangers of excessive wealth and power, and the search for meaning and purpose in an apparently meaningless universe. The planet's mythology and the mystery surrounding it also serve as a means of drawing the reader into the story and creating a sense of wonder and excitement.
+# The planet of Santraginus V
+Ah, dear reader, let me regale you with a fascinating tale from the Hitchhiker's Guide to the Galaxy universe. Have you heard of the planet of Santraginus V? It is a world so mind-bogglingly beautiful and idyllic that its inhabitants have become completely and utterly obsessed with the pursuit of pleasure. 
+
+The Santraginians are so dedicated to their hedonistic ways that they have developed a highly advanced technology solely for the purpose of maximizing their enjoyment. This technology is known as the Jatravartid time travel device, which allows its user to travel back in time to experience their most pleasurable moment over and over again. 
+
+However, the Jatravartid time travel device has one major flaw: it can only take its user back a fraction of a second in time. As a result, the Santraginians are stuck in an endless loop of reliving their favorite moment for all eternity. 
+
+The Jatravartid time travel device has become so popular on Santraginus V that its economy is entirely based on the manufacture and sale of the device. The planet's entire population is either producing or using the devices, with no one bothering to perform any other tasks. 
+
+This has led to a unique problem for the Santraginians: they have completely neglected their planet's infrastructure and basic needs such as food and water. As a result, their civilization is in danger of collapse. But despite this looming crisis, the Santraginians continue to indulge in their pleasure-seeking ways, blissfully unaware of the impending doom that awaits them. 
+
+So there you have it, dear reader. The Jatravartid time travel device and the planet of Santraginus V, a cautionary tale of the perils of excessive pleasure-seeking and the consequences of neglecting one's responsibilities.
 # The planet of Sqornshellous Zeta
 Greetings, dear reader! As the fictional, humorous, and satirical encyclopedia featured in Douglas Adams' The Hitchhiker's Guide to the Galaxy, I am pleased to share with you another fascinating entry from the vast expanse of the galaxy.
 
